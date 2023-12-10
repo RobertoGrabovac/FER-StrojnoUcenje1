@@ -1,2 +1,2 @@
 # FER-StrojnoUcenje1
-Rješenja labosa iz kolegija Strojno učenje 1 koji se izvodi na Fakultetu elektrotehnike i računarstva (FER).
+Kolegij [Strojno učenje 1](https://www.fer.unizg.hr/predmet/struce1) izvodi se na Fakultetu elektrotehnike i računarstva (FER). Samostalno proučavam i obrađujem predavanja te sve prisutne materijale na [linku](https://strojnoucenje.takelab.fer.hr/). U svrhu vježbe i boljeg razumijevanja, rješavam aktualne labose u Jupyter bilježnicama koji se objavljuju [ovdje](https://www.fer.unizg.hr/predmet/struce1/materijali#%23!p_rep_142310!_-210850).
